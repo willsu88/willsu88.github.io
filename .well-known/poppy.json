@@ -1,0 +1,19 @@
+{
+  "protocol_version": "1.0",
+  "organization": {
+    "name": "Cresta Hotel",
+    "domain": "willsu88.github.io"
+  },
+  "auth": {
+    "disabled": true
+  },
+  "agent": {
+    "protocols": [
+      {
+        "type": "poppy",
+        "endpoint": "https://language-cope-tuner-constitute.trycloudflare.com/poppy/conversations",
+        "description": "Guest questions: room availability, rates, and hotel policies."
+      }
+    ]
+  }
+}
